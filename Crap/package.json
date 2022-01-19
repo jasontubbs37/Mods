@@ -1,0 +1,9 @@
+{
+	"name": "protecclava",
+	"author": "Vampyrn",
+	"version": "1.0.0",
+    "type": "module",
+	"license": "MIT",
+	"main": "package.js",
+	"akiVersion": "2.1.0"
+}
